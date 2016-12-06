@@ -4,7 +4,7 @@ In the last several years thousands of research papers have appeared about senti
 
 ## Survey Papers
 
-* [Sentiment Analysis: Detecting Valence, Emotions, and Other Affectual States from Text. Saif M. Mohammad, Emotion Measurement](http://saifmohammad.com/WebDocs/emotion-survey.pdf)
+* [Sentiment Analysis: Detecting Valence, Emotions, and Other Affectual States from Text](http://saifmohammad.com/WebDocs/emotion-survey.pdf)
 * [SentiBench - a benchmark comparison of state-of-the-practice sentiment analysis methods](https://arxiv.org/pdf/1512.01818.pdf)
 
 ## Data Sets
