@@ -9,6 +9,7 @@ In the last several years thousands of research papers have appeared about senti
 
 ## Data Sets
 
+* [Movie Review Data](https://www.cs.cornell.edu/people/pabo/movie-review-data/)
 * [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 * [Stanford Sentiment Treebank](http://nlp.stanford.edu/~socherr/stanfordSentimentTreebank.zip)
 * [CSV Datasets Distribution](http://goo.gl/JyCnZq) from [Zhang, et.al, 2015](https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
