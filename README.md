@@ -8,6 +8,12 @@ In the last several years thousands of research papers have appeared about senti
 * [Sentiment Analysis: Detecting Valence, Emotions, and Other Affectual States from Text](http://saifmohammad.com/WebDocs/emotion-survey.pdf)
 * [SentiBench - a benchmark comparison of state-of-the-practice sentiment analysis methods](https://arxiv.org/pdf/1512.01818.pdf)
 
+## Aspect-Based Sentiment Analysis
+
+* [Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets](https://www.aclweb.org/anthology/D/D16/D16-1022.pdf)  
+Lei Shu, Bing Liu, Hu Xu, Annice Kim, 2016
+
+
 ## Data Sets
 
 * [Movie Review Data](https://www.cs.cornell.edu/people/pabo/movie-review-data/)
