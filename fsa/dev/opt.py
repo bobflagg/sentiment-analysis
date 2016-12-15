@@ -18,10 +18,15 @@ stop = set(stopwords.words('english'))
 DATA_DIRECTORY = '/home/code/nlp/sentiment-analysis-text-classification/sentiment-analysis/data/'
 PARTITION_MAP = {
     'ag':120000,
+    'amazon-f':3000000,
+    'amazon-p':3600000,
+    'dbp':560000,
     'imdb-50K':25000,
     'rt-s':7997,
     'stsa-f':8544,
-    'stsa-p':6920
+    'stsa-p':6920,
+    'yelp-f':650000,
+    'yelp-p':560000,
 }   
 MODEL_PROPERTIES_MAP = {
     'fasttext':{
